@@ -4,7 +4,7 @@ public class ContaBancaria {
 
     private String titular;
     private double salario;
-    private double valor;
+ 
 
     public ContaBancaria(double salario, String titular) {
         this.salario = salario;
